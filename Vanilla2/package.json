@@ -1,0 +1,18 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "veineux",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "bruno",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bl": "^2.1.2",
+    "concat-stream": "^2.0.0",
+    "through2-map": "^3.0.0",
+    "xregexp": "^4.2.4"
+  }
+}
